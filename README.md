@@ -6,6 +6,6 @@ Workshopmateriell om hvordan språkmodeller kan brukes til å skrive om radiolog
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skaliy/patient-friendly-llm/blob/main/workshop.ipynb)
 
-Det finnes også en engelsk utgave av notatboken, med samme norske rapporter og prompter, men forklaringer på engelsk og en engelsk oversettelse under hvert svar.
+Det finnes også en engelsk utgave av notatboken, med samme norske rapporter og prompter, men forklaringer på engelsk.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/skaliy/patient-friendly-llm/blob/main/workshop_en.ipynb)
